@@ -74,5 +74,5 @@ The MGCB Editor does a better job at showing you the errors than Visual Studio d
 ------------------------------------
 The content pipeline has the responsibility of turning a content file into a game-ready asset. 
 When this process finishes, you're left with a game asset stored in a file that you can ship as a part of your game. But the journey isn't done there.
-!! We still need to load the game-ready asset into the game itself.
+!! We still need to load the game-ready asset into the game itself. 
 */
